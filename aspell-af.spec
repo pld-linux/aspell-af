@@ -1,5 +1,5 @@
 Summary:	Afrikaans dictionary for aspell
-Summary(pl):	Afrykanerski s這wnik dla aspella
+Summary(pl):	S這wnik afrykanerski dla aspella
 Name:		aspell-af
 Version:	0.50
 %define	subv	0
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Afrikaans dictionary (i.e. word list) for aspell.
 
 %description -l pl
-Afrykanerski s這wnik (lista s堯w) dla aspella.
+S這wnik (lista s堯w) afrykanerski dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
