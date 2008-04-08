@@ -6,7 +6,7 @@ Version:	0.50
 Release:	1
 License:	LGPL
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/af/%{name}-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/af/%{name}-%{version}-%{subv}.tar.bz2
 # Source0-md5:	bde617a195e70364f96eea71cf71a333
 URL:		http://aspell.net/
 BuildRequires:	aspell >= 2:0.50.0
