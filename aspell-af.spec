@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Afrykanerski słownik dla aspella
 Name:		aspell-af
 Version:	0.50
 %define	subv	0
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/af/%{name}-%{version}-%{subv}.tar.bz2
